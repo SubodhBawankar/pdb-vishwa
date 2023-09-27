@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "XT60-M")(type "KiCad")(uri "${KIPRJMOD}/comps/XT60-M")(options "")(descr ""))
+  (lib (name "B2B-PH-K")(type "KiCad")(uri "${KIPRJMOD}/comps/B2B-PH-K")(options "")(descr ""))
+)
