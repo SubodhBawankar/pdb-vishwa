@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "XT60-M")(type "KiCad")(uri "${KIPRJMOD}/comps/XT60-M/XT60-M.kicad_sym")(options "")(descr ""))
   (lib (name "B2B-PH-K")(type "KiCad")(uri "${KIPRJMOD}/comps/B2B-PH-K/B2B-PH-K.kicad_sym")(options "")(descr ""))
+  (lib (name "XT60PW-M")(type "KiCad")(uri "${KIPRJMOD}/comps/XT60PW-M/XT60PW-M.kicad_sym")(options "")(descr ""))
 )
