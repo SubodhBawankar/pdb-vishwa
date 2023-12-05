@@ -8,7 +8,7 @@ The circuitry converts voltage from batteries to a specific voltage using voltag
 ### Images: 
 Connections:
 
-![Board](Images\Img_1.png)
+![Board]([Images\Img_1.png](https://github.com/SubodhBawankar/pdb-vishwa/blob/main/Images/Img_1.png)https://github.com/SubodhBawankar/pdb-vishwa/blob/main/Images/Img_1.png)
 
 3D View:
 
